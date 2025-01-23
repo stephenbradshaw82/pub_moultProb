@@ -1,7 +1,11 @@
 # Estimating moult timing in lobsters: A Bayesian Approach
 
 Primary author: Stephen Bradshaw
+
+
 Contact: stephen.bradshaw@utas.edu.au
+
+
 Date: 2025-01-23
 
 
@@ -30,6 +34,6 @@ Parent Folder
 │   ├── rSTAN_moultProb_np.stan
 │   └── rSTAN_moultProb_priors.stan
 └── outputs
-│   ├── ...
+    ├── ...
     └── plots
 ```
