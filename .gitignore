@@ -1,0 +1,17 @@
+# Ignore everything in this directory
+*
+
+# Except these file
+!.gitignore
+!*.R
+!*.Rmd
+!*.stan
+.Rproj.user
+*.html
+!*.md
+
+!/src/
+!/src/*
+
+!/models
+!/models/*
